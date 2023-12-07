@@ -10,12 +10,12 @@
 ⭐記得要加README file喔！！
 
 ### Step 2. 新增一個Action
-**1.**
-![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/26220c5a-6c98-4f40-9f68-5a5b35877824)
-**2.**
-![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/84d1e05b-31cd-409f-bb91-22fb58f74930)
-**3.**
-![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/c974c59d-b36d-4a52-b096-0734cef0eb0b)
+**1. 點Action**</br>
+![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/26220c5a-6c98-4f40-9f68-5a5b35877824)</br>
+**2. 點New Workflow**</br>
+![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/84d1e05b-31cd-409f-bb91-22fb58f74930)</br>
+**3. 點Configure**</br>
+![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/c974c59d-b36d-4a52-b096-0734cef0eb0b)</br>
 
 
 ### Step 3. 編輯檔名和內容

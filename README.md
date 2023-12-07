@@ -58,7 +58,7 @@
 
 
 ### Step 4. Run他
-![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/8f1455a0-c1f3-4f6a-a416-53599283b2fe)
+
 **1. 找到剛剛創的Action**</br>
 ![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/2b47826a-629a-499d-92cd-51534e7aab98)</br>
 ⭐他會叫generate animation</br>

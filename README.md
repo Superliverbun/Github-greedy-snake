@@ -6,7 +6,7 @@
 
 -----
 ### Step 1. 創建一個與你的使用者ID相同的儲存庫(repository)
-![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/64bd9697-18d7-46a1-a608-a33f64c9f82a)</br>
+<img src="https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/64bd9697-18d7-46a1-a608-a33f64c9f82a" width = "50%"/></br>
 ⭐記得要加README file喔！！
 
 ### Step 2. 新增一個Action

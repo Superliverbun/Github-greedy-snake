@@ -20,9 +20,9 @@
 
 ### Step 3. 編輯檔名和內容
 
-#### 檔名取你喜歡的就可以了
+#### 1.檔名取你喜歡的就可以了
 ![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/bd4d2ce0-9c6d-4a52-8f80-080a4e938251)
-#### 內容請全部刪掉，改成以下內容
+#### 2.內容請全部刪掉，改成以下內容
     ```yml
     name: generate animation
 

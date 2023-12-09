@@ -62,4 +62,4 @@
 ![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/2b47826a-629a-499d-92cd-51534e7aab98)</br>
 ⭐他會叫generate animation</br>
 
-**2. 
+**2. **

@@ -75,3 +75,4 @@
 ![image](https://github.com/Superliverbun/Github-greedy-snake/assets/113052517/5562cfb9-36f0-4697-bca5-316190cd0740)</br>
 ⭐他會叫**generate-snake-v2**</br>
 
+(帶編輯)
